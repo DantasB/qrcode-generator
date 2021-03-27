@@ -57,5 +57,5 @@ $ python main.py
 ## Technologies
 
 * Python3
-* Pandas
+* Csv
 * Aiohttp
