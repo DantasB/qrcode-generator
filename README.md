@@ -43,8 +43,8 @@ $ pip install -r requirements.txt
 $ touch .env  
 
 # Create the following parameters
- DIR_NAME="qrcodes" #The directory path where the qrcodes will be stored
- CSV_FILENAME="urls.csv" #The csv file path to get all the informations
+ DIR_NAME #The directory path where the qrcodes will be stored
+ CSV_FILENAME #The csv file path to get all the informations
 
 # Execute the main program
 $ python main.py
